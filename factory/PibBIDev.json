@@ -1,0 +1,9 @@
+{
+	"name": "PibBIDev",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b116cf3c-c166-48b6-b794-41d3d62d2d8c",
+		"tenantId": "8f0bf071-57ab-4b48-8504-cd24bb511bee"
+	}
+}
